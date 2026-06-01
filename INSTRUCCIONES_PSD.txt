@@ -1,0 +1,8 @@
+Coloca aquí los archivos PSD originales o editables de las imágenes optimizadas.
+
+Nombres recomendados:
+- perfil-giacomo.psd
+- f1-monaco.psd
+- motogp-vip.psd
+- real-madrid-luxury.psd
+- influencer-campaign.psd
